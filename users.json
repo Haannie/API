@@ -1,0 +1,8 @@
+{
+    "userName":"John",
+    "songName" :"Blah",
+    "songPath" :"Path",
+    "songGenre":"Genre",
+    "songArtist":"Artist",
+    "songLength": 2
+}
